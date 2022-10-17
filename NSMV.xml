@@ -142,4 +142,5 @@
 		<folder external="Layouts/JP" disc="/Layout" create="true" />
 		<folder external="NewerRes/JP" disc="/NewerRes" create="true" />
 	</patch>
+    </options>
 </wiidisc>
