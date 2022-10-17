@@ -7,7 +7,6 @@
 		<region type="W"/>
 	</id>
 	<options>
-    <options>
         <section name="NewerSunMoonVacationWii">
             <option name="SunMoonVacation" id="NSMV" default="1">
                 <choice name="English">
